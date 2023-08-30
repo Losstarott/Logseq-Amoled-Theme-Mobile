@@ -2,6 +2,8 @@
 
 > AMOLED black background with original blue accent theme for Android.
 
+![Screenshot](./screenshot.png)
+
 ## Install
 
 Copy and paste code into custom.css.
