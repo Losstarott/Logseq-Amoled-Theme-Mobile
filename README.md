@@ -12,3 +12,4 @@ Copy and paste code into custom.css.
 
 ## License
 
+[MIT License](./LICENSE)
