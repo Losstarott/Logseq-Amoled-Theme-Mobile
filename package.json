@@ -1,0 +1,18 @@
+{
+    "name": "Logseq-Amoled-Theme-Mobile",
+    "description": "AMOLED black background with original blue accent theme for Android.",
+    "author": "Losstarott",
+    "version": "0.1",
+    "repo": "Losstarott/Logseq-Amoled-Theme=Mobile",
+    "logseq": {
+      "themes": [
+        {
+          "name": ""Omelet" Theme",
+          "url": "./custom.css",
+          "description": "AMOLED black background with original blue accent theme for Android.",
+          "mode": "Dark"
+        }
+      ],
+      "id": "Losstarott_Logseq-Amoled-Theme=Mobile",
+    }
+  }
