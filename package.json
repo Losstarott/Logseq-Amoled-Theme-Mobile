@@ -7,7 +7,7 @@
     "logseq": {
       "themes": [
         {
-          "name": ""Omelet" Theme",
+          "name": "Omelet Theme",
           "url": "./custom.css",
           "description": "AMOLED black background with original blue accent theme for Android.",
           "mode": "Dark"
